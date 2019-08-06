@@ -8,7 +8,8 @@ This is a Server-side implementation of GraphQL with Apollo Server. There has be
  - [GraphQL]() - GraphQL is a query language for APIs and a runtime for fulfilling those queries
  - [Apollo Serevr]() - Apollo Server is the best way to quickly build a production-ready, self-documenting API for GraphQL clients, using data from any source.
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/anuragRex/node-apllo/blob/master/Screenshot.png)
+
 ![screenshot](https://github.com/anuragRex/node-apllo/blob/master/Screenshot1.png)
 
 ## Installation
